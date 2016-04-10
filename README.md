@@ -1,6 +1,6 @@
 # nginx-lua-modules
 
-This repository contains lua modules for use within OpenResty or Nginx.
+This repository is a collection of lua modules for use within OpenResty or Nginx.
 
 
 
